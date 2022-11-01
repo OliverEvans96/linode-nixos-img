@@ -1,3 +1,5 @@
 #+title: Linode NixOS Image
 
 Hercules CI
+
+https://github.com/hercules-ci/flake-compat-ci
